@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP CSD18513Q5A
+D 40V, N ch NexFET MOSFET, single SON5x6, 3.4mOhm
+F http://www.ti.com/lit/gpn/csd18513q5a
+$ENDCMP
+#
+#End Doc Library

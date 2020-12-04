@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LM5109BSD_NOPB
+D Texas Instruments LM5109BSD/NOPB, Dual MOSFET Power Driver, 1A Half Bridge, Synchronous, 8  14 V, Push-Pull
+K
+F http://www.ti.com/lit/gpn/lm5109b
+$ENDCMP
+#
+#End Doc Library

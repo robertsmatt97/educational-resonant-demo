@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MBR1H100SFT3G
+D Diode Schottky 100V 1A SOD123FL ON Semiconductor MBR1H100SFT3G Schottky Diode, 1A, 100V, 2-Pin SOD-123FL
+K
+F http://www.onsemi.com/pub/Collateral/MBR1H100SF-D.PDF
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,29 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model TPS61085TDGKR
+#/607827/184583/2.47/8/3/Integrated Circuit
+DEF TPS61085TDGKR IC 0 30 Y Y 1 F N
+F0 "IC" 950 300 50 H V L CNN
+F1 "TPS61085TDGKR" 950 200 50 H V L CNN
+F2 "SOP65P490X110-8N" 950 100 50 H I L CNN
+F3 "http://www.ti.com/lit/gpn/tps61085t" 950 0 50 H I L CNN
+F4 "18.5V, 2A, 650kHz, 1.2MHz Step-Up DC-DC Converter with Forced PWM Mode (extended temp range)" 950 -100 50 H I L CNN "Description"
+F5 "1.1" 950 -200 50 H I L CNN "Height"
+F6 "595-TPS61085TDGKR" 950 -300 50 H I L CNN "Mouser Part Number"
+F7 "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/TPS61085TDGKR?qs=%2Fqzd9s%252BcLd4U2Z7ineHARw%3D%3D" 950 -400 50 H I L CNN "Mouser Price/Stock"
+F8 "Texas Instruments" 950 -500 50 H I L CNN "Manufacturer_Name"
+F9 "TPS61085TDGKR" 950 -600 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+X COMP 1 0 0 200 R 50 50 0 0 P
+X FB 2 0 -100 200 R 50 50 0 0 P
+X EN 3 0 -200 200 R 50 50 0 0 P
+X PGND 4 0 -300 200 R 50 50 0 0 P
+X SS 8 1100 0 200 L 50 50 0 0 P
+X FREQ 7 1100 -100 200 L 50 50 0 0 P
+X IN 6 1100 -200 200 L 50 50 0 0 P
+X SW 5 1100 -300 200 L 50 50 0 0 P
+P 5 0 1 6 200 100 900 100 900 -400 200 -400 200 100 N
+ENDDRAW
+ENDDEF
+#
+#End Library

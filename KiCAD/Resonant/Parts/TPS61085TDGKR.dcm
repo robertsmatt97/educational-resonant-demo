@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TPS61085TDGKR
+D 18.5V, 2A, 650kHz, 1.2MHz Step-Up DC-DC Converter with Forced PWM Mode (extended temp range)
+K
+F http://www.ti.com/lit/gpn/tps61085t
+$ENDCMP
+#
+#End Doc Library
