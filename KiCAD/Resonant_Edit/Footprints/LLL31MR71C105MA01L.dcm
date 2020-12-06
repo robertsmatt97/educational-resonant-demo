@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LLL31MR71C105MA01L
+D 0612 Ceramic cap,X7R 1uF 16V Murata 0612 LLx 1uF Ceramic Multilayer Capacitor, 16 V dc, +125C, X7R Dielectric, +/-20% SMD
+K
+F https://componentsearchengine.com/Datasheets/1/LLL31MR71C105MA01L.pdf
+$ENDCMP
+#
+#End Doc Library

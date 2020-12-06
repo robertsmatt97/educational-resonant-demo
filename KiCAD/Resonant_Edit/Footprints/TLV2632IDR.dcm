@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TLV2632IDR
+D FEATURES  Rail-To-Rail Output  VICR Includes Ground  Gain-Bandwidth Product ... 9 MHz  Supply Current ... 730 A/Channel  Single, Duals, and Quad Versions  Ultralow Power Down Mode IDD(SHDN) = 4 A/Channel  Specified Temperature Range 40C to 125C ... Industrial Grade  Supply Voltage Range ... 2.7 V to 5.5 V  Ultrasmall Packaging 5 or 6 Pin SOT-23 (TLV2630/1) 8 or 10 Pin MSOP (TLV2632/3)  Universal Op-Amp EVM (See SLOU060 for More Information)
+K
+F http://www.ti.com/lit/ds/symlink/tlv2632.pdf
+$ENDCMP
+#
+#End Doc Library

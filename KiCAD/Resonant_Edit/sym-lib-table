@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name Added_Symbols)(type Legacy)(uri ${KIPRJMOD}/Added_Symbols.lib)(options "")(descr ""))
+  (lib (name Resonant-rescue)(type Legacy)(uri ${KIPRJMOD}/Resonant-rescue.lib)(options "")(descr ""))
+)

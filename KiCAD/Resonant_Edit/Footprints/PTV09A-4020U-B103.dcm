@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP PTV09A-4020U-B103
+D Bourns 1 Gang Linear Carbon Potentiometer with a 6 mm Dia. Shaft, 10k, +/-20%, 0.05W, Linear PTV09A-4020U-B103
+K
+F https://www.bourns.com/docs/product-datasheets/PTV09.pdf
+$ENDCMP
+#
+#End Doc Library

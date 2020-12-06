@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP PMEG2010AEH,115
+D Schottky Diodes & Rectifiers SCHOTTKY 20V 1A
+K
+F http://cache.nxp.com/documents/data_sheet/PMEG2010AEH_PMEG2010AET.pdf
+$ENDCMP
+#
+#End Doc Library
